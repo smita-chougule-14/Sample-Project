@@ -1,0 +1,19 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "Sample project test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smita-chougule-14/Sample-Project.git"
+  },
+  "author": "Smita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smita-chougule-14/Sample-Project/issues"
+  },
+  "homepage": "https://github.com/smita-chougule-14/Sample-Project#readme"
+}
